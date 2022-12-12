@@ -1,0 +1,99 @@
+body {
+	background-color: #0A22F4;
+}
+.information h1{
+	color: white;
+	width: 162px;
+	height: 38px;
+	margin-top: 275px;
+	margin-left: 240px;
+	text-align: left;
+}
+.information p{
+	color: white;
+	width: 463px;
+	height: 99px;
+	margin-left: 240px;
+	margin-top: 30pxs;
+	font-size: 16px;
+}
+.map{
+	margin-left: 240px;
+	margin-top: 58px;
+	border-radius: 15px;
+}
+.phone img{
+	margin-left: 240px;
+	margin-top: 60px;
+	vertical-align: middle;
+	display: inline-block;
+}
+.phone p{
+	display: inline-block;
+	vertical-align: middle;
+	color: white;
+	margin-top: 82px;
+	margin-left: 20px;
+}
+.email img{
+	margin-left: 82px;
+	margin-top: 60px;
+	vertical-align: middle;
+	display: inline-block;
+}
+.email p{
+	display: inline-block;
+	vertical-align: middle;
+	color: white;
+	margin-top: 82px;
+	margin-left: 20px;
+}
+.phone{
+	display: inline-block;
+}
+.email{
+	display: inline-block;
+    margin-left: 98px;
+    margin-top: 82px;
+}
+.support-section{
+	margin-left: 304px;
+    display: inline-block;   
+}
+.support-section p{
+	color: white;
+}
+.left-side{
+	display: inline-block;
+}
+.name{
+	border-bottom: 1px solid white;
+    padding-bottom: 40px;
+    width: 460px;
+}
+.sup-email{
+	border-bottom: 1px solid white;
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+.mob-number{
+	border-bottom: 1px solid white;
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+.message{
+	border-bottom: 1px solid white;
+    padding-bottom: 80px;
+    margin-top: 40px;
+}
+#link a{
+	text-decoration: none;
+	background-color: white;
+	color: black;
+	height: 55px;
+	width: 155px;
+	border-radius: 28px;
+	margin-left: 1528px;
+	margin-top: 40px;
+    text-align: center;
+}
