@@ -27,6 +27,11 @@ body {
 	margin-top: 60px;
 	vertical-align: middle;
 	display: inline-block;
+	background-color: white;
+	width: 70px;
+	height: 70px;
+	border-radius: 100%;
+	object-fit: scale-down;
 }
 .phone p{
 	display: inline-block;
@@ -40,6 +45,11 @@ body {
 	margin-top: 60px;
 	vertical-align: middle;
 	display: inline-block;
+	background-color: white;
+	width: 70px;
+	height: 70px;
+	border-radius: 100%;
+	object-fit: scale-down;
 }
 .email p{
 	display: inline-block;
